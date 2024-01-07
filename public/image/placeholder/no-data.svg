@@ -1,0 +1,168 @@
+<svg height="600" node-id="1" sillyvg="true" template-height="600" template-width="600"
+  version="1.1" viewBox="0 0 600 600" width="600" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs node-id="80">
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-1" node-id="5"
+      spreadMethod="pad" x1="0.9251822" x2="0.40792233" y1="0.988" y2="1">
+      <stop offset="0" stop-color="#e0e5ef" stop-opacity="0" />
+      <stop offset="1" stop-color="#e0e5ef" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-2" node-id="8"
+      spreadMethod="pad" x1="0.92039144" x2="0.4089598" y1="0.988" y2="1">
+      <stop offset="0" stop-color="#e0e5ef" stop-opacity="0" />
+      <stop offset="1" stop-color="#e0e5ef" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-3" node-id="11"
+      spreadMethod="pad" x1="0.40830326" x2="0.40830326" y1="0.44889104" y2="0">
+      <stop offset="0" stop-color="#e8ebf1" stop-opacity="0.23774004" />
+      <stop offset="1" stop-color="#a2abb9" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-4" node-id="14"
+      spreadMethod="pad" x1="0.68701404" x2="0.3712451" y1="1" y2="0">
+      <stop offset="0" stop-color="#a2abb9" />
+      <stop offset="1" stop-color="#e7eaf0" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-5" node-id="17"
+      spreadMethod="pad" x1="1.0929326" x2="0.091779314" y1="0.7339135" y2="0.26608652">
+      <stop offset="0" stop-color="#a2abb9" />
+      <stop offset="1" stop-color="#e7eaf0" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-6" node-id="20"
+      spreadMethod="pad" x1="0" x2="1" y1="0.7774144" y2="0.24543583">
+      <stop offset="0" stop-color="#a2abb9" />
+      <stop offset="1" stop-color="#e4e7ee" />
+      <stop offset="1" stop-color="#e7eaf0" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-7" node-id="24"
+      spreadMethod="pad" x1="-0.08442299" x2="1" y1="0.64356965" y2="0.4150323">
+      <stop offset="0" stop-color="#a2abb9" />
+      <stop offset="1" stop-color="#e7eaf0" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-8" node-id="27"
+      spreadMethod="pad" x1="0" x2="1" y1="0.5903543" y2="0.40964568">
+      <stop offset="0" stop-color="#a2abb9" />
+      <stop offset="1" stop-color="#e7eaf0" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-9" node-id="30"
+      spreadMethod="pad" x1="0.08415277" x2="1.0203032" y1="0.79568833" y2="0.12723312">
+      <stop offset="0" stop-color="#c0c7d2" />
+      <stop offset="1" stop-color="#a2abb9" />
+      <stop offset="1" stop-color="#909aa9" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-11" node-id="38"
+      spreadMethod="pad" x1="0.08415277" x2="1.0203032" y1="0.62826025" y2="0.33830547">
+      <stop offset="0" stop-color="#c0c7d2" />
+      <stop offset="1" stop-color="#a2abb9" />
+      <stop offset="1" stop-color="#909aa9" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-13" node-id="45"
+      spreadMethod="pad" x1="0.70468557" x2="0.36486223" y1="1" y2="-0.08946136">
+      <stop offset="0" stop-color="#909aa9" />
+      <stop offset="1" stop-color="#c0c7d2" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" id="linearGradient-14" node-id="48"
+      spreadMethod="pad" x1="0" x2="1" y1="0.73636067" y2="0.26363933">
+      <stop offset="0" stop-color="#909aa9" />
+      <stop offset="1" stop-color="#c0c7d2" />
+    </linearGradient>
+  </defs>
+  <g node-id="159">
+    <path
+      d="M 297.37 77.00 C 348.40 77.00 395.46 93.76 433.17 122.00 L 418.00 122.00 C 410.82 122.00 405.00 127.82 405.00 135.00 L 405.00 135.00 L 405.00 136.00 C 405.00 143.18 410.82 149.00 418.00 149.00 L 418.00 149.00 L 463.18 149.00 C 471.75 158.24 479.53 168.19 486.43 178.76 L 507.88 178.76 C 515.61 178.76 521.88 185.03 521.88 192.76 L 521.88 193.54 C 521.88 199.93 517.60 205.32 511.75 207.00 L 492.00 207.00 C 483.16 207.00 476.00 214.16 476.00 223.00 L 476.00 223.00 L 476.00 228.00 C 476.00 236.84 483.16 244.00 492.00 244.00 L 492.00 244.00 L 559.90 244.00 C 566.85 245.74 572.00 252.03 572.00 259.52 L 572.00 260.41 C 572.00 269.25 564.84 276.41 556.00 276.41 L 520.82 276.41 C 521.52 283.52 521.88 290.72 521.88 298.00 C 521.88 420.05 421.36 519.00 297.37 519.00 C 198.19 519.00 114.03 455.70 84.32 367.90 L 75.89 367.90 C 72.49 367.90 69.72 365.14 69.72 361.73 C 69.72 359.13 71.33 356.91 73.61 356.00 L 84.00 356.00 C 91.18 356.00 97.00 350.18 97.00 343.00 L 97.00 343.00 L 97.00 342.00 C 97.00 334.82 91.18 329.00 84.00 329.00 L 84.00 329.00 L 75.05 329.00 C 75.04 328.95 75.03 328.89 75.03 328.84 L 52.85 328.84 C 47.18 328.84 42.58 324.24 42.58 318.56 C 42.58 312.88 47.18 308.28 52.85 308.28 L 73.10 308.28 C 72.94 304.87 72.86 301.45 72.86 298.00 C 72.86 265.37 80.04 234.39 92.94 206.51 L 57.00 206.52 C 41.54 206.52 29.00 193.98 29.00 178.52 L 29.00 176.95 C 29.00 162.03 40.67 149.83 55.39 149.00 L 182.00 149.00 C 187.52 149.00 192.00 144.52 192.00 139.00 C 192.00 133.48 187.52 129.00 182.00 129.00 L 182.00 129.00 L 152.69 129.00 C 152.94 128.80 153.18 128.59 153.42 128.39 L 138.85 128.40 C 128.35 128.40 119.85 119.89 119.85 109.40 L 119.85 108.33 C 119.85 97.84 128.35 89.33 138.85 89.33 L 223.23 89.33 C 246.44 81.34 271.39 77.00 297.37 77.00 Z"
+      fill="#f3f3fa" fill-opacity="0.6015942" fill-rule="evenodd" group-id="1" id="背景" node-id="52"
+      stroke="none" target-height="442" target-width="543" target-x="29" target-y="77" />
+  </g>
+  <g node-id="160">
+    <path
+      d="M 180.03 393.39 L 180.47 394.88 L 180.82 396.28 L 181.00 397.42 L 180.85 399.01 L 180.41 400.45 L 179.68 401.76 L 178.17 403.39 L 176.26 404.52 L 174.59 404.61 L 173.01 404.69 L 171.34 404.69 L 157.65 404.87 L 157.65 419.51 L 157.78 426.04 L 158.08 431.95 L 158.52 438.00 L 145.88 438.00 L 146.14 434.58 L 146.32 429.10 L 146.41 419.86 L 146.41 406.45 L 145.35 407.19 L 144.25 407.62 L 143.07 407.76 L 141.66 407.58 L 140.48 407.06 L 139.49 406.24 L 138.68 405.13 L 128.76 404.61 L 126.93 403.96 L 125.33 402.99 L 123.93 401.67 L 122.86 400.09 L 122.22 398.34 L 122.00 396.37 L 122.09 395.40 L 122.35 394.53 L 124.55 389.44 L 124.91 387.58 L 125.64 385.85 L 126.69 384.29 L 127.97 382.96 L 141.75 357.45 L 141.84 357.45 L 143.69 354.57 L 145.79 352.19 L 147.43 350.99 L 149.36 350.26 L 151.68 350.00 L 153.73 350.19 L 155.61 350.74 L 157.34 351.67 L 158.87 352.90 L 160.11 354.35 L 161.07 356.05 L 172.13 377.70 L 174.00 378.57 L 175.63 379.79 L 177.05 381.38 L 178.12 383.21 L 178.76 385.21 L 178.98 387.43 L 178.88 388.84 L 178.54 390.41 L 180.03 393.39 Z"
+      fill="url(#linearGradient-1)" fill-rule="nonzero" group-id="2" id="路径" node-id="54"
+      stroke="none" target-height="88" target-width="59" target-x="122" target-y="350" />
+    <path
+      d="M 490.03 393.39 L 490.47 394.88 L 490.82 396.28 L 491.00 397.42 L 490.85 399.01 L 490.41 400.45 L 489.68 401.76 L 488.17 403.39 L 486.26 404.52 L 484.59 404.61 L 483.01 404.69 L 481.34 404.69 L 467.65 404.87 L 467.65 419.51 L 467.78 426.04 L 468.08 431.95 L 468.52 438.00 L 455.88 438.00 L 456.14 434.58 L 456.32 429.10 L 456.41 419.86 L 456.41 406.45 L 455.35 407.19 L 454.25 407.62 L 453.07 407.76 L 451.66 407.58 L 450.48 407.06 L 449.49 406.24 L 448.68 405.13 L 438.76 404.61 L 436.93 403.96 L 435.33 402.99 L 433.93 401.67 L 432.86 400.09 L 432.22 398.34 L 432.00 396.37 L 432.09 395.40 L 432.35 394.53 L 434.55 389.44 L 434.91 387.58 L 435.64 385.85 L 436.69 384.29 L 437.97 382.96 L 451.75 357.45 L 451.84 357.45 L 453.69 354.57 L 455.79 352.19 L 457.43 350.99 L 459.36 350.26 L 461.68 350.00 L 463.73 350.19 L 465.61 350.74 L 467.34 351.67 L 468.87 352.90 L 470.11 354.35 L 471.07 356.05 L 482.13 377.70 L 484.00 378.57 L 485.63 379.79 L 487.05 381.38 L 488.12 383.21 L 488.76 385.21 L 488.98 387.43 L 488.88 388.84 L 488.54 390.41 L 490.03 393.39 Z"
+      fill="url(#linearGradient-1)" fill-rule="nonzero" group-id="2" id="路径" node-id="55"
+      stroke="none" target-height="88" target-width="59" target-x="432" target-y="350" />
+    <path
+      d="M 453.25 403.02 L 453.59 404.19 L 453.86 405.29 L 454.00 406.18 L 453.74 408.01 L 452.97 409.58 L 451.79 410.86 L 450.30 411.75 L 449.00 411.82 L 447.77 411.88 L 446.47 411.88 L 435.79 412.02 L 435.79 423.50 L 435.89 428.62 L 436.13 433.26 L 436.48 438.00 L 426.62 438.00 L 426.82 435.32 L 426.96 431.02 L 427.03 423.77 L 427.03 413.26 L 425.78 414.04 L 424.43 414.29 L 423.32 414.15 L 422.41 413.74 L 421.64 413.10 L 421.01 412.23 L 413.27 411.82 L 411.84 411.31 L 410.60 410.55 L 409.51 409.51 L 408.67 408.28 L 408.17 406.90 L 408.00 405.36 L 408.07 404.60 L 408.27 403.91 L 409.99 399.93 L 410.27 398.46 L 410.84 397.11 L 411.66 395.89 L 412.65 394.84 L 423.40 374.84 L 423.47 374.84 L 424.91 372.58 L 426.55 370.72 L 427.83 369.78 L 429.33 369.20 L 431.14 369.00 L 432.74 369.15 L 434.20 369.58 L 435.55 370.31 L 437.26 371.82 L 438.46 373.74 L 447.09 390.72 L 448.54 391.40 L 449.81 392.36 L 450.92 393.60 L 451.75 395.04 L 452.25 396.61 L 452.43 398.35 L 452.34 399.46 L 452.08 400.68 L 453.25 403.02 Z"
+      fill="url(#linearGradient-2)" fill-rule="nonzero" group-id="2" id="路径" node-id="56"
+      stroke="none" target-height="69" target-width="46" target-x="408" target-y="369" />
+  </g>
+  <path
+    d="M 284.50 415.00 C 345.88 415.00 401.15 420.01 439.79 428.00 C 477.58 428.26 508.00 439.57 508.00 453.50 C 508.00 464.54 488.89 473.94 462.15 477.49 C 455.77 479.37 448.58 481.15 440.69 482.81 C 440.90 483.86 441.00 484.93 441.00 486.00 C 441.00 510.30 388.17 530.00 323.00 530.00 C 264.37 530.00 215.72 514.05 206.55 493.16 C 128.32 487.22 73.00 472.60 73.00 455.50 C 73.00 433.13 167.69 415.00 284.50 415.00 Z"
+    fill="#e7eaf0" fill-rule="evenodd" id="形状结合" node-id="58" stroke="none" target-height="115"
+    target-width="435" target-x="73" target-y="415" />
+  <path d="M 274.66 435.01 L 315.61 386.21 L 562.20 509.41 L 416.69 618.37 Z"
+    fill="url(#linearGradient-3)" fill-opacity="0.5" fill-rule="nonzero" group-id="3" id="路径"
+    node-id="59" stroke="none" target-height="232.1637" target-width="287.53888"
+    target-x="274.66266" target-y="386.20764" />
+  <path d="M 390.00 342.71 L 289.00 330.00 L 289.00 380.39 L 388.39 392.00 Z" fill="#a2abb9"
+    fill-rule="nonzero" group-id="4" id="路径" node-id="61" stroke="none" target-height="62"
+    target-width="101" target-x="289" target-y="330" />
+  <path d="M 209.00 346.44 L 288.99 330.00 L 289.00 386.66 L 209.00 403.00 Z" fill="#c0c7d2"
+    fill-rule="nonzero" group-id="4" id="路径" node-id="62" stroke="none" target-height="73"
+    target-width="80" target-x="209" target-y="330" />
+  <path d="M 303.00 368.17 L 389.00 346.00 L 389.00 450.83 L 303.00 473.00 Z" fill="#a2abb9"
+    fill-rule="nonzero" group-id="4" id="路径" node-id="63" stroke="none" target-height="127"
+    target-width="86" target-x="303" target-y="346" />
+  <path d="M 210.00 349.00 L 304.00 367.75 L 303.45 473.00 L 210.00 452.12 Z" fill="#c0c7d2"
+    fill-rule="nonzero" group-id="4" id="路径" node-id="64" stroke="none" target-height="124"
+    target-width="94" target-x="210" target-y="349" />
+  <path d="M 304.00 368.18 L 209.17 348.00 L 189.00 385.17 L 285.44 408.00 Z" fill="#d1d6e2"
+    fill-rule="nonzero" group-id="4" id="路径" node-id="65" stroke="none" target-height="60"
+    target-width="115" target-x="189" target-y="348" />
+  <path d="M 304.00 367.72 L 390.09 344.00 L 412.00 380.91 L 329.55 408.00 Z" fill="#c0c7d2"
+    fill-rule="nonzero" group-id="4" id="路径" node-id="66" stroke="none" target-height="64"
+    target-width="108" target-x="304" target-y="344" />
+  <path
+    d="M 212.26 194.97 L 208.16 201.30 L 204.96 207.19 L 202.57 212.70 L 200.89 217.85 L 199.86 222.69 L 199.43 227.28 L 199.55 231.64 L 200.20 235.82 L 201.38 239.86 L 203.11 243.79 L 205.41 247.64 L 208.33 251.43 L 211.94 255.18 L 216.31 258.89 L 221.53 262.56 L 227.71 266.18 L 234.95 269.75 L 243.37 273.25"
+    fill="none" group-id="5" id="路径-2" node-id="68" stroke="url(#linearGradient-4)"
+    stroke-linecap="round" stroke-width="1" target-height="78.27702" target-width="43.940277"
+    target-x="199.42703" target-y="194.97057" />
+  <path
+    d="M 203.86 267.36 L 207.96 272.10 L 211.70 275.77 L 215.12 278.52 L 218.25 280.48 L 221.14 281.79 L 223.83 282.53 L 226.38 282.76"
+    fill="none" group-id="5" id="路径-3" node-id="69" stroke="url(#linearGradient-5)"
+    stroke-linecap="round" stroke-width="1" target-height="15.403046" target-width="22.519745"
+    target-x="203.8559" target-y="267.3586" />
+  <path
+    d="M 403.23 150.17 L 403.13 155.29 L 402.48 160.17 L 401.28 164.86 L 399.54 169.38 L 397.22 173.77 L 394.31 178.05 L 390.74 182.23 L 386.45 186.34 L 381.38 190.37 L 375.43 194.32 L 368.52 198.18 L 360.54 201.93 L 351.39 205.56 L 340.93 209.04 L 329.06 212.35 L 315.63 215.45"
+    fill="none" group-id="5" id="路径-4" node-id="70" stroke="url(#linearGradient-6)"
+    stroke-linecap="round" stroke-width="1" target-height="65.27162" target-width="87.598175"
+    target-x="315.6316" target-y="150.1736" />
+  <path
+    d="M 411.17 189.27 L 403.91 195.04 L 397.62 199.47 L 392.18 202.75 L 387.49 205.06 L 383.44 206.56 L 379.95 207.37 L 376.92 207.63"
+    fill="none" group-id="5" id="路径-5" node-id="71" stroke="url(#linearGradient-7)"
+    stroke-linecap="round" stroke-width="1" target-height="18.353394" target-width="34.250732"
+    target-x="376.91504" target-y="189.27338" />
+  <path
+    d="M 387.00 260.32 L 375.47 259.20 L 364.85 258.70 L 355.06 258.77 L 346.06 259.36 L 337.79 260.44 L 330.18 261.96 L 323.18 263.90 L 316.75 266.24 L 310.84 268.96 L 305.41 272.05 L 300.43 275.51 L 295.86 279.34 L 291.69 283.56 L 287.88 288.17 L 284.45 293.22 L 281.37 298.72 L 278.66 304.72"
+    fill="none" group-id="5" id="路径-6" node-id="72" stroke="url(#linearGradient-8)"
+    stroke-linecap="round" stroke-width="1" target-height="46.016937" target-width="108.340454"
+    target-x="278.65955" target-y="258.6986" />
+  <path
+    d="M 210.92 218.98 L 221.73 220.96 L 230.41 223.09 L 237.27 225.31 L 242.58 227.59 L 246.61 229.89 L 249.57 232.19 L 251.66 234.48 L 253.04 236.78 L 253.81 239.14 L 254.01 241.60 L 253.63 244.25 L 252.60 247.16 L 251.12 249.76 L 249.53 251.50 L 247.82 252.57 L 245.94 253.07 L 243.80 253.00 L 241.27 252.26 L 238.25 250.66 L 234.59 247.96 L 230.17 243.82 L 224.85 237.90 L 218.49 229.77 L 210.92 218.98 Z"
+    fill="url(#linearGradient-9)" fill-rule="nonzero" group-id="5" id="路径-7" node-id="73"
+    stroke="none" target-height="34.082184" target-width="43.09651" target-x="210.91553"
+    target-y="218.98383" />
+  <path
+    d="M 332.83 189.27 L 334.45 184.60 L 336.41 180.71 L 338.68 177.51 L 341.25 174.89 L 344.15 172.81 L 347.41 171.22 L 351.09 170.13 L 355.28 169.56 L 360.06 169.57 L 365.52 170.25 L 371.77 171.69 L 371.28 173.70 L 370.22 175.67 L 368.51 177.63 L 365.99 179.62 L 362.45 181.62 L 357.65 183.63 L 351.33 185.61 L 343.16 187.50 L 332.83 189.27 Z"
+    fill="none" group-id="5" id="路径-8" node-id="74" stroke="none" target-height="19.710587"
+    target-width="38.9404" target-x="332.82977" target-y="169.56279" />
+  <path
+    d="M 287.31 317.72 L 291.13 310.91 L 295.04 305.14 L 299.01 300.30 L 303.06 296.28 L 307.18 293.01 L 311.39 290.42 L 315.71 288.46 L 320.17 287.09 L 324.82 286.31 L 329.68 286.11 L 334.81 286.52 L 340.26 287.59 L 346.07 289.38 L 352.30 291.96 L 349.07 297.36 L 345.59 302.07 L 341.89 306.15 L 337.95 309.67 L 333.76 312.64 L 329.29 315.11 L 324.53 317.08 L 319.43 318.55 L 313.95 319.52 L 308.05 319.97 L 301.68 319.85 L 294.78 319.12 L 287.31 317.72 Z"
+    fill="url(#linearGradient-11)" fill-rule="nonzero" group-id="5" id="路径-9" node-id="75"
+    stroke="none" target-height="33.85724" target-width="64.993835" target-x="287.30615"
+    target-y="286.11005" />
+  <path
+    d="M 328.00 198.45 L 330.17 194.33 L 332.48 190.91 L 334.91 188.12 L 337.46 185.87 L 340.15 184.11 L 343.00 182.81"
+    fill="none" group-id="5" id="路径-10" node-id="76" stroke="none" target-height="15.6406555"
+    target-width="14.998169" target-x="328.00183" target-y="182.80942" />
+  <path
+    d="M 243.37 243.18 L 245.69 243.96 L 247.70 245.14 L 249.44 246.73 L 250.93 248.78 L 252.18 251.38 L 253.15 254.64 L 253.79 258.69 L 254.02 263.67"
+    fill="none" group-id="5" id="路径-11" node-id="77" stroke="url(#linearGradient-13)"
+    stroke-linecap="round" stroke-width="1" target-height="20.486267" target-width="10.650406"
+    target-x="243.36731" target-y="243.18298" />
+  <path
+    d="M 280.66 327.36 L 283.12 323.20 L 285.71 319.77 L 288.44 316.98 L 291.31 314.76 L 294.34 313.06 L 297.54 311.84 L 300.97 311.11 L 304.66 310.85"
+    fill="none" group-id="5" id="路径-12" node-id="78" stroke="url(#linearGradient-14)"
+    stroke-linecap="round" stroke-width="1" target-height="16.503479" target-width="24.003357"
+    target-x="280.65955" target-y="310.85425" />
+</svg>

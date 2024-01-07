@@ -1,0 +1,24 @@
+/*
+  毛玻璃背景
+*/
+$glass-bg-color-dark: rgba(#1f1f1f, 0.2);
+// $glass-bg-blur-dark: blur(16px);
+// saturate(150%) 提高饱和度，颜色更加明显突出
+$glass-bg-blur-dark: saturate(150%) blur(16px);
+
+@mixin glass-bg-dark($border: 0, $filter: true) {
+  background-color: $glass-bg-color-dark;
+
+  @if $filter {
+    backdrop-filter: $glass-bg-blur-dark;
+  }
+
+  @if $border == 1 {
+    // border: 0.1rem solid rgba(#ffffff, 0.1);
+    @apply border-[0.08rem] sm:border-[0.1rem] border-white border-opacity-10 border-solid;
+  }
+
+  // backdrop-filter 会导致页面卡顿，使用 translateZ 调用页面GPU渲染
+  transform-style: preserve-3d;
+  transform: translateZ(0);
+}
